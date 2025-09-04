@@ -1,0 +1,6 @@
+addIngredient("seee",{
+    color:"#E2E2E2",
+    type:"12345678910",
+    shape:"ball",
+    hidden:true,
+    adj:"sapient"
